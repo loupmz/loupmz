@@ -4,8 +4,6 @@
 <img src = "https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=white&color=8957e5" alt = "C"/>
 <img src = "https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white&color=8957e5" alt = "Python"/>
 
-##
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loupmz&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
 
 <img src="https://media1.tenor.com/m/OWcv6bzzBfsAAAAC/purple-sky-cute.gif" alt="Purple Sky GIF" style="max-width: 100px; border-radius: 10px;" />
