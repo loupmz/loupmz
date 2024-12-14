@@ -7,5 +7,5 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loupmz&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
 
 <img src="https://media1.tenor.com/m/OWcv6bzzBfsAAAAC/purple-sky-cute.gif" alt="Purple Sky GIF" style="max-width: 100px; border-radius: 10px;" />
-
+<img src="https://media.tenor.com/YNvTofOhsRwAAAAi/honkai-star-rail-hsr.gif" alt="Herta GIF" style="max-width: 100px; border-radius: 10px;" />
 </div>
