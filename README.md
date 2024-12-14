@@ -10,8 +10,6 @@
          alt="Herta GIF" style="width: 100px; height: auto;" />
     <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
          alt="Herta GIF" style="width: 100px; height: auto;" />
-    <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
-         alt="Herta GIF" style="width: 100px; height: auto;" />
   </div>
 </div>
 
