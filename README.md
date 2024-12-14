@@ -4,13 +4,10 @@
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loupmz&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
 
-<div align="center" style="width: 100%; overflow: hidden;">
-  <div style="display: flex; gap: 10px; justify-content: center; animation: move 10s linear infinite;">
-    <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
-         alt="Herta GIF" style="width: 100px; height: auto;" />
-    <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
-         alt="Herta GIF" style="width: 100px; height: auto;" />
-  </div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
+       alt="Herta GIF" 
+       style="width: 200px; height: auto; padding: 10px; border-radius: 20px; background-color: #1e1e2e;" />
 </div>
 
 </div>
