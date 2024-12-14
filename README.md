@@ -12,6 +12,7 @@
   <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
        alt="Herta GIF" 
        style="width: 200px; height: auto; padding: 10px; border-radius: 20px; background-color: #1e1e2e;" />
+  <img src="https://media.tenor.com/eYcLteB5KNMAAAAj/stars-blink-stars.gif" alt="Stars GIF" style="width: 200px; height: auto; padding: 10px; border-radius: 20px"/>
 </div>
 
 </div>
