@@ -8,11 +8,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loupmz&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" 
-       alt="Herta GIF" 
-       style="width: 200px; height: auto; padding: 10px; border-radius: 20px; background-color: #1e1e2e;" />
-  <img src="https://media.tenor.com/eYcLteB5KNMAAAAj/stars-blink-stars.gif" alt="Stars GIF" style="width: 200px; height: auto; padding: 10px; border-radius: 20px"/>
-</div>
+<img src="https://media1.tenor.com/m/OWcv6bzzBfsAAAAC/purple-sky-cute.gif" alt="Purple Sky GIF" style="max-width: 100px; border-radius: 10px;" />
 
 </div>
