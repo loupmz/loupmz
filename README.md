@@ -4,5 +4,5 @@
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loupmz&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
 
-<img src = "https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" alt="Herta GIF" style="max-width: 150px; border-radius: 10px;" />
+<img src = "https://media.tenor.com/_-5PNLKEgv0AAAAj/honkai-star-rail-hsr.gif" alt="Herta GIF" style="max-width: 150px; border-radius: 15px;" />
 </div>
