@@ -7,7 +7,6 @@
 <img src = "https://img.shields.io/badge/Node.js-4479A1?style=for-the-badge&logo=node.js&logoColor=white&color=8957e5" alt = "Node.js"/>
 <img src = "https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white&color=8957e5" alt = "TypeScript"/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loupmz&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
 
 <img src="https://media1.tenor.com/m/OWcv6bzzBfsAAAAC/purple-sky-cute.gif" alt="Purple Sky GIF" style="max-width: 100px; border-radius: 10px;" />
 <img src="https://media.tenor.com/YNvTofOhsRwAAAAi/honkai-star-rail-hsr.gif" alt="Herta GIF" style="max-width: 100px; border-radius: 10px;" />
